@@ -15,6 +15,9 @@
 - 학번과 비밀번호로 로그인
 - 서버에 연결할 수 없다면 연결불가 응답 표출
 
+![KakaoTalk_20230428_143751010](https://github.com/kw-appsw-crsreg/.github/assets/113542209/d5971bf9-52c0-40ca-a733-1baa10a0d187)
+
+
 <br> 
 
 
@@ -43,7 +46,10 @@
 ### 1. Git clone
 ```shell
 git clone https://github.com/kw-appsw-crsreg/client
+
 ```
+
+### [Server](
 
 ## 🧑‍🤝‍🧑🧑‍🤝‍🧑 Project Member
 
