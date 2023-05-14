@@ -74,4 +74,4 @@ git clone https://github.com/kw-appsw-crsreg/server
 |<img src="https://avatars.githubusercontent.com/u/28249968?v=4" width="80">|<img src="https://avatars.githubusercontent.com/u/64678476?v=4" width="80">|<img src ="https://avatars.githubusercontent.com/u/113542209?v=4" width="80">|<img src="https://avatars.githubusercontent.com/u/112372174?v=4" width="80">|
 |:---:|:---:|:---:|:---:|
 |[42_jaemkim](https://github.com/andrew00874)|[GYUTAE PARK](https://github.com/doraemon500)|[bjPark98](https://github.com/bjPark98)|[yunasin](https://github.com/star1502)|
-|Client - Main | Server | Cline-Login | **Team Leader**<br>Database|
+|Client - Main | Server | Clinet -Login | **Team Leader**<br>Database|
