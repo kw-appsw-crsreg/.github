@@ -1,7 +1,6 @@
-# 📖 광운대학교 수강신청 프로그램 
+# 📖 광운대학교 수강신청 연습 프로그램 
 
-<img src="https://img.shields.io/badge/-MariDB-lightgrey"><img src="https://img.shields.io/badge/-C%23-blue">
-
+<img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white"> <img src="https://img.shields.io/badge/.Net-512BD4?style=flat-square&logo=dotnet&logoColor=white"> <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white">
 
 ![df1](https://github.com/kw-appsw-crsreg/.github/assets/113542209/8f5c59ae-807b-4dec-b39e-505b9a3579ef)
 
@@ -17,7 +16,7 @@
 
 저희는 이런 불편함을 고려해 재학생들이 수강신청을 미리 연습하거나 신입생들이 수강프로그램이 어떻게 돌아가는지 알고싶을 때 사용할 수 있도록 최대한 본래 프로그램가 유사하게 구현하여 간편하게 이용해 볼 수 있도록 하는 것이 목표입니다.
 
-## ✅ Programs's Option
+## ✅ Programs's Feature
 - 수강신청 기능 (과목번호로 서버에 신청요청 → 서버가 응답 : 신청됐는지 아닌지)
 - 수강신청 불가능하다면, 그 사유를 사용자에게 표출(인원초과/만석입니다/시간겹침
 /학점초과)
@@ -32,7 +31,7 @@
 <br> 
 
 
-## ⚒️ Program's Tool
+## ⚒️ Tech. Stack
 **C#** 
 
 - WinForm으로 작성하여 우리 학교 수강신청 프로그램과 유사한 기능과 UI 제공
@@ -68,10 +67,20 @@ git clone https://github.com/kw-appsw-crsreg/server
 
 ```
 
-## 🧑‍🤝‍🧑🧑‍🤝‍🧑 Project Member
+## 🧑‍🤝‍🧑🧑‍🤝‍🧑 Project Members
 
+ <div align="center">
+  
+  ### 🐔 만석입니다 🐔
 
 |<img src="https://avatars.githubusercontent.com/u/28249968?v=4" width="80">|<img src="https://avatars.githubusercontent.com/u/64678476?v=4" width="80">|<img src ="https://avatars.githubusercontent.com/u/113542209?v=4" width="80">|<img src="https://avatars.githubusercontent.com/u/112372174?v=4" width="80">|
 |:---:|:---:|:---:|:---:|
 |[42_jaemkim](https://github.com/andrew00874)|[GYUTAE PARK](https://github.com/doraemon500)|[bjPark98](https://github.com/bjPark98)|[yunasin](https://github.com/star1502)|
 |Client - Main | Server | Clinet -Login | **Team Leader**<br>Database|
+  
+   </div>
+  
+  <br>
+
+## 🧾 License
+  README.md of this project originally from [oss-talkative](https://github.com/oss-talkative/.github) project.
