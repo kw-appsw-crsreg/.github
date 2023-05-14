@@ -36,7 +36,7 @@
 
 ## 🖥️ How To Set Up?
 
-### **[Client]**(https://github.com/kw-appsw-crsreg/client)
+### [Client](https://github.com/kw-appsw-crsreg/client)
 
 > A visual studio installation is required before the program can run. Please check [here](https://visualstudio.microsoft.com/ko/downloads/) to install **Visual studio 2022.**
 
