@@ -58,6 +58,7 @@ git clone https://github.com/kw-appsw-crsreg/client
 
 ### [Server](https://github.com/kw-appsw-crsreg/server)
 
+### 1. Git clone
 ```shell
 git clone https://github.com/kw-appsw-crsreg/server
 
