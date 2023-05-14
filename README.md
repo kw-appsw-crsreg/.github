@@ -15,7 +15,8 @@
 - 학번과 비밀번호로 로그인
 - 서버에 연결할 수 없다면 연결불가 응답 표출
 
-![KakaoTalk_20230428_143751010](https://github.com/kw-appsw-crsreg/.github/assets/113542209/d5971bf9-52c0-40ca-a733-1baa10a0d187)
+![12](https://github.com/kw-appsw-crsreg/.github/assets/113542209/badfc4f9-ca82-46f4-bb2f-d87f2d9fe34d)
+
 
 
 <br> 
