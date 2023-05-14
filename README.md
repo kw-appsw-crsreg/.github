@@ -56,7 +56,12 @@ git clone https://github.com/kw-appsw-crsreg/client
 
 ```
 
-### [Server](
+### [Server](https://github.com/kw-appsw-crsreg/server)
+
+```shell
+git clone https://github.com/kw-appsw-crsreg/server
+
+```
 
 ## 🧑‍🤝‍🧑🧑‍🤝‍🧑 Project Member
 
