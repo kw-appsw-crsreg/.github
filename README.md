@@ -40,3 +40,14 @@
 
 > A visual studio installation is required before the program can run. Please check [here](https://visualstudio.microsoft.com/ko/downloads/) to install **Visual studio 2022.**
 
+### 1. Git clone
+```shell
+git clone https://github.com/kw-appsw-crsreg/client
+```
+
+
+
+|<img src="https://avatars.githubusercontent.com/u/72238126?v=4" width="80">|<img src="https://avatars.githubusercontent.com/u/65147869?v=4" width="80">|<img src="https://avatars.githubusercontent.com/u/95032287?v=4" width="80">|<img src="https://avatars.githubusercontent.com/u/112372174?v=4" width="80">|
+|:---:|:---:|:---:|:---:|
+|[Yeojun Yoon](https://github.com/yjyoon-dev)|[푸른곰프앙이](https://github.com/kseenyoung)|[JeongYun Kim](https://github.com/pipi-shortstocking)|[yunasin](https://github.com/star1502)|
+|**Team Leader**<br>Mobile Client|Back-end|Front-end Web|Mobile Client / Design|
