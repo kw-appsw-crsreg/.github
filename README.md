@@ -47,7 +47,7 @@ git clone https://github.com/kw-appsw-crsreg/client
 
 
 
-|<img src="https://avatars.githubusercontent.com/u/72238126?v=4" width="80">|<img src="https://avatars.githubusercontent.com/u/65147869?v=4" width="80">|<img src="https://avatars.githubusercontent.com/u/95032287?v=4" width="80">|<img src="https://avatars.githubusercontent.com/u/112372174?v=4" width="80">|
+|<img src="https://avatars.githubusercontent.com/u/28249968?v=4" width="80">|<img src="https://avatars.githubusercontent.com/u/64678476?v=4" width="80">|<img src = "https://github.com/account" width="80">|<img src="https://avatars.githubusercontent.com/u/112372174?v=4" width="80">|
 |:---:|:---:|:---:|:---:|
-|[Yeojun Yoon](https://github.com/yjyoon-dev)|[푸른곰프앙이](https://github.com/kseenyoung)|[JeongYun Kim](https://github.com/pipi-shortstocking)|[yunasin](https://github.com/star1502)|
-|**Team Leader**<br>Mobile Client|Back-end|Front-end Web|Mobile Client / Design|
+|[42_jaemkim](https://github.com/andrew00874)|[GYUTAE PARK](https://github.com/doraemon500)|[bjPark98](https://github.com/bjPark98)|[yunasin](https://github.com/star1502)|
+|Client - Main | Server | Cline-Login | **Team Leader**<br>Database|
