@@ -1,4 +1,4 @@
-# 📖 광운대학교 수강신청 연습 프로그램 
+# 📖 광운대학교 수강신청 클라이언트-서버 프로젝트
 
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white"> <img src="https://img.shields.io/badge/.Net-512BD4?style=flat-square&logo=dotnet&logoColor=white"> <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white">
 
@@ -18,8 +18,7 @@
 
 ## ✅ Programs's Feature
 - 수강신청 기능 (과목번호로 서버에 신청요청 → 서버가 응답 : 신청됐는지 아닌지)
-- 수강신청 불가능하다면, 그 사유를 사용자에게 표출(인원초과/만석입니다/시간겹침
-/학점초과)
+- 수강신청 불가능하다면, 그 사유를 사용자에게 표출(인원초과/만석입니다/시간겹침/학점초과)
 - 수강삭제 기능
 - 학번과 비밀번호로 로그인
 - 서버에 연결할 수 없다면 연결불가 응답 표출
@@ -45,7 +44,7 @@
 
 수강신청에 필요한 정보들을 데이터베이스에 저장하고, 이를 프로그램에서 사용하려면 데이터베이스 연동이 필요함
 
-데이터베이스에는 (해당학기 개설과목/학생에 대한 정보/장바구니 정보/수강 정보)를 각각 담은 4개의 테이블이 존재함
+데이터베이스에는 (해당학기 개설과목/학생에 대한 정보/장바구니 정보/수강 정보)를 각각 담은 4개의 메인 테이블과, 참조용 성적/학과 테이블이 존재
 
 ## 🖥️ How To Set Up?
 
